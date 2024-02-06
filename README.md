@@ -1,5 +1,5 @@
 # Lending Club Case Study
-> Outline a brief description of your project.
+> Its a case study to explore how Exploratory Data Analysis (EDA) can be applied in real time to solve business problems. As part of this case study, as a user of Lending Club finance company , assess the loan statistics and a loan can be approved or rejected based on several statistical analysis of past / recent data.
 
 
 ## Table of Contents
@@ -28,9 +28,11 @@
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- Python - 3.11.5 
+- Pandas - 2.0.3
+- matplotlib - 3.7.2
+- seaborn - 0.12.2
+
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
