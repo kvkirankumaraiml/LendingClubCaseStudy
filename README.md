@@ -17,6 +17,14 @@
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
+## Technologies Used
+- Python - 3.11.5 
+- Pandas - 2.0.3
+- matplotlib - 3.7.2
+- seaborn - 0.12.2
+
+<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
+
 ## Conclusions
 - DTI  :Debt-to-Income ratio is a critical predictor of loan default. The higher the DTI then higher the chances of charged off.
 - The large amount of loan has higher chance for defaulted.
@@ -24,18 +32,7 @@
 - The loan approval rate is significantly increasing year by year.
 - Majority of borrowers don’t own a property. They are on mortgage or rent and are located in mostly urban areas.
 
-
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
-
-## Technologies Used
-- Python - 3.11.5 
-- Pandas - 2.0.3
-- matplotlib - 3.7.2
-- seaborn - 0.12.2
-
-
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
 Give credit here.
